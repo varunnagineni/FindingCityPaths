@@ -1,0 +1,11 @@
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Albany
+Chicago, Vegas
+Detroit, Seattle
+Dallas, Orlando
+Austin, New York
+Edison, Hackensack
+Jersey City, Queens
+Camden, Austin
